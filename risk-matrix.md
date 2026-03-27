@@ -45,7 +45,6 @@ To identify, evaluate, and propose mitigation strategies for key risks associate
 ---
 ## 🇪🇸 Selected Risks (Spanish Version)
 
-## 🇪🇸 Riesgos Clave (Versión en Español)
 
 | # | Descripción del Riesgo | Categoría | Probabilidad | Impacto | Nivel de Riesgo | Mitigación |
 |--|----------------------|----------|-------------|--------|----------------|------------|
