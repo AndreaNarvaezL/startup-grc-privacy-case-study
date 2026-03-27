@@ -67,3 +67,10 @@ Legal compliance is not only reactive — it must be integrated into the design 
 ## Author
 
 Legal professional with experience in compliance, data protection, and risk management in regulated and digital environments, with a focus on GRC and information security from a legal perspective.
+
+---
+
+## Language
+
+This repository is written in English for global accessibility.  
+Versión en español disponible en cada documento cuando aplica.
