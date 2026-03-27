@@ -40,6 +40,7 @@ To identify, evaluate, and propose mitigation strategies for key risks associate
 | 16 | Misuse of agricultural production data (crops, yields, farming practices) | Data Governance / Business Risk | Medium | High | High | Data usage policies, access restrictions, and data classification controls |
 | 17 | Incorrect recommendations based on contextual data (location, climate) | Technology Risk / Operational Risk | Medium | Medium | Medium | Validation of data sources and continuous monitoring of outputs |
 | 18 | Dependency on third-party services for AI models or external data sources | Third-Party Risk / Technology Risk | Medium | High | High | Vendor risk assessment, contractual controls, and service redundancy strategies |
+| 19 | Financial data exposure or theft (payment data, transactions) | Information Security / Financial Risk | Medium | High | High | Encryption of data in transit and at rest, tokenization, secure payment gateways, strong access controls (MFA), transaction monitoring, and incident response procedures |
 
 ---
 
