@@ -32,6 +32,14 @@ To identify, evaluate, and propose mitigation strategies for key risks associate
 | 8 | Misuse of user data for unintended purposes | Legal / Ethical | Low | High | Medium | Data usage limitations and internal controls |
 | 9 | Lack of incident response protocol | Governance | Medium | High | High | Develop and implement incident response procedures |
 |10 | Regulatory non-compliance (data protection laws) | Compliance | Medium | High | High | Continuous compliance monitoring and legal review |
+| 11 | Misuse or exposure of crop geolocation data | Data Privacy / Information Security | Medium | High | High | Restrict access, anonymize geolocation data, and implement location-based access controls |
+| 12 | Inaccurate AI-driven recommendations affecting agricultural production | Technology Risk / Legal | Medium | High | High | Model validation, use of disclaimers, and human oversight mechanisms |
+| 13 | Liability arising from advisory services provided by experts on the platform | Legal / Compliance | Medium | High | High | Clear terms and conditions, disclaimers, and limitation of liability clauses |
+| 14 | Identity fraud or impersonation of users or experts | Information Security / Operational Risk | High | High | Critical | Identity verification processes and strong authentication mechanisms |
+| 15 | Fraud in the purchase of agricultural supplies through the platform | Financial / Operational Risk | Medium | High | High | Transaction monitoring, user validation, and fraud detection mechanisms |
+| 16 | Misuse of agricultural production data (crops, yields, farming practices) | Data Governance / Business Risk | Medium | High | High | Data usage policies, access restrictions, and data classification controls |
+| 17 | Incorrect recommendations based on contextual data (location, climate) | Technology Risk / Operational Risk | Medium | Medium | Medium | Validation of data sources and continuous monitoring of outputs |
+| 18 | Dependency on third-party services for AI models or external data sources | Third-Party Risk / Technology Risk | Medium | High | High | Vendor risk assessment, contractual controls, and service redundancy strategies |
 
 ---
 
