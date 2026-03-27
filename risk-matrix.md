@@ -43,6 +43,16 @@ To identify, evaluate, and propose mitigation strategies for key risks associate
 | 19 | Financial data exposure or theft (payment data, transactions) | Information Security / Financial Risk | Medium | High | High | Encryption of data in transit and at rest, tokenization, secure payment gateways, strong access controls (MFA), transaction monitoring, and incident response procedures |
 
 ---
+## 🇪🇸 Selected Risks (Spanish Version)
+
+## 🇪🇸 Riesgos Clave (Versión en Español)
+
+| # | Descripción del Riesgo | Categoría | Probabilidad | Impacto | Nivel de Riesgo | Mitigación |
+|--|----------------------|----------|-------------|--------|----------------|------------|
+| 11 | Uso indebido o exposición de datos de geolocalización de cultivos | Privacidad de Datos / Seguridad de la Información | Media | Alta | Alto | Limitar acceso, anonimizar datos y aplicar controles |
+| 12 | Recomendaciones erróneas de IA que afecten la producción agrícola | Riesgo Tecnológico / Legal | Media | Alta | Alto | Validación de modelos y supervisión humana |
+| 13 | Responsabilidad por asesorías brindadas por expertos en la plataforma | Legal / Cumplimiento | Media | Alta | Alto | Términos y condiciones claros y limitación de responsabilidad |
+| 19 | Robo o exposición de datos financieros | Seguridad de la Información / Financiero | Media | Alta | Alto | Cifrado, MFA, monitoreo y pasarelas seguras |
 
 ## Key Observations
 
