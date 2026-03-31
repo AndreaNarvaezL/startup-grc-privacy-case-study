@@ -1,0 +1,180 @@
+# Privacy Policy Outline – AgriTech Platform (GRC Case Study)
+
+## 1. Introduction & Scope
+
+This document outlines the data protection approach for a digital AgriTech platform designed to connect farmers with experts, provide AI-based crop risk analysis, and facilitate access to agricultural resources and services.
+
+The platform processes personal data from users located in Colombia and, where applicable, the European Union.
+
+---
+
+## 2. Applicable Legal Framework
+
+This policy is aligned with the following regulations:
+
+### Colombia
+- Law 1581 of 2012 (Personal Data Protection Law)
+- Decree 1377 of 2013
+- Guidelines issued by the Superintendence of Industry and Commerce (SIC)
+
+### European Union
+- General Data Protection Regulation (GDPR)
+
+The platform adopts principles such as lawfulness, transparency, purpose limitation, data minimization, and accountability.
+
+---
+
+## 3. Data Controller
+
+The Data Controller is responsible for determining the purposes and means of processing personal data.
+
+Contact:
+- Email: [to be defined]
+- Country of operation: Colombia
+
+(Optional)
+- Data Protection Officer (DPO): [if applicable]
+
+---
+
+## 4. Categories of Data Collected
+
+The platform may collect and process the following categories of data:
+
+- Personal data: name, identification, contact details
+- Geolocation data: location of farms or users
+- Agricultural data: crop type, soil conditions, farming practices
+- Device and usage data: IP address, device type, app interactions
+- AI-generated data: recommendations, predictive analysis, risk alerts
+
+---
+
+## 5. Purpose of Processing
+
+Personal data is processed for the following purposes:
+
+- Provide AI-based recommendations for crop management
+- Detect potential crop diseases or risks
+- Connect farmers with agricultural experts
+- Enable transactions and access to agricultural resources
+- Improve platform performance and user experience
+
+---
+
+## 6. Legal Basis for Processing
+
+Processing is carried out based on:
+
+- User consent
+- Contractual necessity (service provision)
+- Legitimate interests (platform improvement, fraud prevention)
+
+---
+
+## 7. Automated Decision-Making & AI Use
+
+The platform uses artificial intelligence to generate insights and recommendations.
+
+These outputs:
+- Are intended as decision-support tools
+- Do not replace professional judgment
+- May involve automated processing of user and agricultural data
+
+Users are informed about the existence of automated processing where applicable.
+
+---
+
+## 8. Data Transfers
+
+Personal data may be transferred to third parties, including:
+
+- Cloud infrastructure providers
+- AI service providers
+- External APIs and integrations
+
+Where data is transferred outside Colombia or the EU, appropriate safeguards are implemented, such as:
+
+- Standard Contractual Clauses (SCCs)
+- Equivalent protection measures under Colombian law
+
+---
+
+## 9. Data Security Measures
+
+The platform implements technical and organizational measures to protect personal data, including:
+
+- Encryption (in transit and at rest)
+- Access control mechanisms
+- Monitoring and incident detection
+- Secure development practices
+
+---
+
+## 10. Data Subject Rights
+
+### Colombia (Law 1581)
+Users have the right to:
+- Access their data
+- Update and rectify information
+- Request deletion
+- Revoke consent
+
+### European Union (GDPR)
+Users may exercise:
+- Right of access
+- Right to rectification
+- Right to erasure
+- Right to data portability
+- Right to restriction of processing
+
+---
+
+## 11. Data Retention
+
+Personal data is retained only for as long as necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required by law.
+
+---
+
+## 12. Third-Party Sharing
+
+The platform may share data with:
+
+- Technology providers (cloud, AI)
+- Strategic partners
+- Service providers involved in platform operations
+
+All third parties are required to comply with data protection obligations.
+
+---
+
+## 13. Sensitive Data Considerations
+
+Certain data processed by the platform may be considered sensitive, including:
+
+- Geolocation data
+- Agricultural production data with economic value
+
+Additional safeguards are applied to protect such data.
+
+---
+
+## 14. Incident Response & Data Breaches
+
+In the event of a data breach:
+
+- The incident will be assessed and contained
+- Users and authorities will be notified where required
+
+### Colombia
+- Notification to the Superintendence of Industry and Commerce (SIC)
+
+### European Union
+- Notification within 72 hours (GDPR requirement), where applicable
+
+---
+
+## 15. Policy Updates
+
+This policy may be updated periodically. Users will be informed of significant changes through appropriate communication channels.
+
+---
