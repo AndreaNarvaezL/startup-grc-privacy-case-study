@@ -1,0 +1,120 @@
+# Descripción general del flujo de datos – Plataforma AgriTech (Caso de estudio GRC)
+
+Este flujo de datos se deriva de los escenarios de riesgo identificados y respalda un enfoque de protección de datos basado en riesgos.
+
+## Descripción general
+
+Este documento describe cómo fluyen los datos a través de la plataforma AgriTech, identificando los puntos clave de procesamiento, las partes interesadas y los riesgos asociados. Promueve la privacidad desde el diseño y la toma de decisiones basada en riesgos.
+
+--
+
+## 1. Actores clave
+
+- Agricultores (usuarios finales).
+- Ingenieros agrícolas/agrónomos.
+- Plataforma (backend de la aplicación).
+- Proveedores externos (nube, IA, pagos).
+
+---
+
+## 2. Categorías de datos
+
+- Datos personales (nombre, información de contacto).
+- Datos de geolocalización (ubicación de la explotación).
+- Datos agrícolas (tipo de cultivo, condiciones).
+- Datos financieros (transacciones, pagos).
+- Información generada por IA.
+
+---
+
+## 3. Etapas del flujo de datos
+
+### 3.1 Recopilación de datos
+
+- Los usuarios proporcionan datos personales y agrícolas.
+- La geolocalización se recopila a través del dispositivo o la información proporcionada por el usuario.
+
+Riesgos:
+
+- Recopilación excesiva de datos.
+- Falta de consentimiento informado.
+- Falta de claridad en la terminología utilizada.
+
+--
+
+### 3.2 Transmisión de datos
+
+- Los datos se transmiten a servidores backend.
+- Los datos pueden compartirse con API de terceros.
+
+Riesgos:
+- Intercepción.
+- Comunicación insegura con la API.
+
+---
+
+### 3.3 Procesamiento de datos
+
+- Los modelos de IA analizan datos agrícolas.
+- La plataforma procesa las interacciones del usuario.
+
+Riesgos:
+- Resultados de IA incorrectos.
+- Acceso no autorizado a los datos.
+
+--
+
+### 3.4 Almacenamiento de datos
+
+- Los datos se almacenan en infraestructura en la nube.
+
+Riesgos:
+- Violaciones de seguridad de los datos.
+- Almacenamiento mal configurado.
+
+--
+
+### 3.5 Intercambio de datos
+
+- Los datos se comparten con expertos o proveedores.
+- Los sistemas de pago procesan datos financieros.
+
+Riesgos:
+- Uso indebido por terceros.
+- Sobreexposición de datos.
+
+-- ---
+
+### 3.6 Retención y eliminación de datos
+
+- Los datos se retienen de acuerdo con las políticas definidas.
+- Los datos se eliminan a solicitud o una vez transcurrido el período de retención.
+
+Riesgos:
+- Retención excesiva.
+- Eliminación incompleta.
+
+--
+
+## 4. Flujo transfronterizo de datos
+
+- Los datos pueden procesarse fuera de Colombia.
+- Deben implementarse medidas de seguridad (p. ej., Cláusulas Contractuales Tipo (CCT)).
+
+---
+
+## 5. Consideraciones de Cumplimiento
+
+- Aplicar principios de privacidad desde el diseño.
+- Garantizar la minimización de datos.
+- Mantener la transparencia con los usuarios.
+- Cumplir con la legislación colombiana y, cuando corresponda, con el RGPD.
+
+---
+
+## 6. Puntos Clave de Riesgo
+
+- Exposición a la geolocalización.
+- Riesgos en la toma de decisiones de la IA.
+- Integraciones con terceros.
+- Manejo de datos financieros.
