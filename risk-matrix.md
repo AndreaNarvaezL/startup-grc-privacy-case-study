@@ -1,4 +1,4 @@
-# Risk Matrix | AgriTech Digital Application
+# Risk Matrix (AgriTech Digital Application)
 
 This document presents a risk assessment for a digital application in the agricultural sector, focusing on legal, regulatory, and information security risks.
 
