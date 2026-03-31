@@ -1,0 +1,122 @@
+# Compliance Checklist – AgriTech Platform (GRC Case Study)
+
+## Overview
+
+This checklist defines key compliance controls required for a digital AgriTech platform, integrating governance, risk, and regulatory requirements aligned with Colombian law and GDPR.
+
+---
+
+## 1. Governance & Accountability
+
+- [ ] Define Data Controller and responsibilities
+- [ ] Assign Data Protection Officer (if applicable)
+- [ ] Establish internal data protection policies
+- [ ] Maintain records of processing activities (ROPA)
+- [ ] Implement accountability principle (GDPR)
+
+---
+
+## 2. Legal Compliance (Colombia & GDPR)
+
+- [ ] Identify applicable regulations (Law 1581, GDPR)
+- [ ] Ensure lawful basis for data processing
+- [ ] Obtain valid user consent mechanisms
+- [ ] Register databases with SIC (if required)
+- [ ] Implement privacy-by-design principles
+
+---
+
+## 3. Data Collection & Minimization
+
+- [ ] Collect only necessary data
+- [ ] Define clear purposes for data collection
+- [ ] Avoid excessive or unrelated data processing
+- [ ] Validate data accuracy and relevance
+
+---
+
+## 4. User Rights Management
+
+- [ ] Enable access to personal data
+- [ ] Allow correction and updates
+- [ ] Provide data deletion mechanisms
+- [ ] Enable consent withdrawal
+- [ ] Implement GDPR rights (portability, restriction)
+
+---
+
+## 5. Security Controls
+
+- [ ] Encrypt data in transit and at rest
+- [ ] Implement access control (role-based)
+- [ ] Monitor unauthorized access attempts
+- [ ] Conduct periodic security assessments
+- [ ] Implement secure coding practices
+
+---
+
+## 6. AI & Automated Processing
+
+- [ ] Identify AI-driven processes
+- [ ] Inform users about automated decision-making
+- [ ] Implement human oversight mechanisms
+- [ ] Validate accuracy of AI outputs
+- [ ] Document AI risks and limitations
+
+---
+
+## 7. Geolocation & Sensitive Data
+
+- [ ] Justify use of geolocation data
+- [ ] Implement explicit consent mechanisms
+- [ ] Apply additional safeguards for sensitive data
+- [ ] Limit access to high-risk data categories
+
+---
+
+## 8. Third-Party & Vendor Management
+
+- [ ] Identify all third-party providers
+- [ ] Evaluate vendor security and compliance
+- [ ] Sign data processing agreements (DPA)
+- [ ] Monitor third-party data handling practices
+- [ ] Control API integrations and data sharing
+
+---
+
+## 9. Data Transfers
+
+- [ ] Identify international data transfers
+- [ ] Implement safeguards (SCCs or equivalents)
+- [ ] Assess transfer risks
+- [ ] Ensure compliance with local regulations
+
+---
+
+## 10. Data Retention & Deletion
+
+- [ ] Define data retention periods
+- [ ] Implement secure deletion mechanisms
+- [ ] Avoid indefinite data storage
+- [ ] Document retention policies
+
+---
+
+## 11. Incident Response & Breach Management
+
+- [ ] Establish incident response plan
+- [ ] Detect and classify security incidents
+- [ ] Notify authorities (SIC / GDPR requirements)
+- [ ] Notify affected users when required
+- [ ] Document and review incidents
+
+---
+
+## 12. Monitoring & Continuous Compliance
+
+- [ ] Conduct periodic compliance audits
+- [ ] Update policies and controls regularly
+- [ ] Track regulatory changes
+- [ ] Train staff on data protection practices
+
+---
