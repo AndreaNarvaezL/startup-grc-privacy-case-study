@@ -1,0 +1,144 @@
+# Third-Party Risk Management – AgriTech Platform (GRC Case Study)
+
+## Overview
+
+This document outlines the third-party risk management framework for a digital AgriTech platform. It defines how external vendors, service providers, and partners are evaluated, monitored, and controlled to ensure compliance with data protection regulations and security standards.
+
+---
+
+## 1. Objectives
+
+- Identify and manage risks associated with third parties.
+- Ensure compliance with Colombian data protection laws and, where applicable, the GDPR, depending on the geographical scope of data processing.
+- Protect personal, geolocation, agricultural, and financial data.
+- Maintain secure and reliable integrations.
+
+---
+
+## 2. Scope
+
+This framework applies to all third parties involved in the platform, including:
+
+- Cloud service providers.
+- AI and analytics providers.
+- Payment processors.
+- API integrations.
+- External consultants and partners.
+
+---
+
+## 3. Third-Party Classification
+
+Third parties are classified based on risk level:
+
+### Low Risk
+- No access to personal data.
+- Limited or indirect system interaction.
+
+### Medium Risk
+- Access to non-sensitive data.
+- Limited processing responsibilities.
+
+### High Risk
+- Access to personal, geolocation, or financial data.
+- Data processors under GDPR.
+- Critical system integration (e.g., AI engines, payment systems).
+
+---
+
+## 4. Due Diligence & Vendor Assessment
+
+Before onboarding any third party:
+
+- [ ] Evaluate security practices.
+- [ ] Review privacy policies.
+- [ ] Assess compliance with applicable regulations.
+- [ ] Verify certifications (ISO 27001, SOC 2, etc.).
+- [ ] Identify data access level and processing activities.
+- [ ] Conduct risk assessment.
+
+---
+
+## 5. Contractual Controls
+
+All third parties must be governed by formal agreements, including:
+
+- Data Processing Agreement (DPA).
+- Confidentiality clauses.
+- Security obligations.
+- Incident notification requirements.
+- Data return or deletion clauses.
+
+---
+
+## 6. Data Protection Requirements
+
+Third parties must:
+
+- Process data only for defined purposes.
+- Implement appropriate security measures.
+- Avoid unauthorized data sharing.
+- Ensure data minimization.
+- Comply with cross-border transfer regulations.
+
+---
+
+## 7. Monitoring & Continuous Evaluation
+
+- [ ] Periodic vendor reviews.
+- [ ] Security assessments.
+- [ ] Performance monitoring.
+- [ ] Compliance verification.
+- [ ] Incident tracking.
+
+---
+
+## 8. Data Transfers & International Compliance
+
+When data is transferred internationally:
+
+- Implement safeguards (Standard Contractual Clauses – SCCs).
+- Ensure equivalent protection standards.
+- Assess jurisdictional risks.
+
+---
+
+## 9. Incident Management (Third Parties)
+
+Third parties must:
+
+- Notify incidents without undue delay.
+- Provide detailed incident reports.
+- Cooperate in investigations.
+- Support remediation efforts.
+
+---
+
+## 10. Termination & Offboarding
+
+Upon termination:
+
+- Revoke all access.
+- Ensure secure data deletion.
+- Retrieve or destroy stored data.
+- Validate compliance with contractual obligations.
+
+---
+
+## 11. High-Risk Considerations AgriTech Context
+
+### AI Providers:
+- Risk of inaccurate or biased outputs.
+- Data usage for model training.
+
+### Payment Providers:
+- Financial data exposure.
+- Fraud risk.
+
+### Geolocation Services:
+- Exposure of farm locations.
+- Potential misuse of sensitive data.
+
+### Cloud Providers:
+- Data storage location.
+- Cross-border transfers.
